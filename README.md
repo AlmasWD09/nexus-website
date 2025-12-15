@@ -1,1 +1,1 @@
-Nexus website(landing page)
+Nexus website(https://nexus-website-5k52.vercel.app/)
